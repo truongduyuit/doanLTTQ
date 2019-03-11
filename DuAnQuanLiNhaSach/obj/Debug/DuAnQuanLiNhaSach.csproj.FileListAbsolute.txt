@@ -1,0 +1,56 @@
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.csprojAssemblyReference.cache
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmDangNhap.resources
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.Properties.Resources.resources
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.csproj.GenerateResource.cache
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.csproj.CoreCompileInputs.cache
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\DuAnQuanLiNhaSach.exe.config
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\DuAnQuanLiNhaSach.exe
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\DuAnQuanLiNhaSach.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\BLL.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\DTO.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\MetroFramework.Design.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\MetroFramework.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\MetroFramework.Fonts.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\DTO.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\BLL.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.csproj.CopyComplete
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.exe
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\DAL.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\DAL.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmMain.resources
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\DevComponents.DotNetBar2.xml
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmCTHD.resources
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmDangKiTK.resources
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmDoiMatKhau.resources
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\Facebook.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\bin\Debug\Facebook.xml
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\DuAnQuanLiNhaSach.exe.config
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\DuAnQuanLiNhaSach.exe
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\DuAnQuanLiNhaSach.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\BLL.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\DevComponents.DotNetBar2.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\DTO.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\Facebook.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\MetroFramework.Design.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\MetroFramework.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\MetroFramework.Fonts.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\DAL.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\DTO.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\BLL.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\DevComponents.DotNetBar2.xml
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\Facebook.xml
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\bin\Debug\DAL.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.csprojAssemblyReference.cache
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmCTHD.resources
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmDangKiTK.resources
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmDangNhap.resources
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmDoiMatKhau.resources
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.frmMain.resources
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.Properties.Resources.resources
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.csproj.GenerateResource.cache
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.csproj.CoreCompileInputs.cache
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.csproj.CopyComplete
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.exe
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\obj\Debug\DuAnQuanLiNhaSach.pdb

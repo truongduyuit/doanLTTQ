@@ -1,0 +1,22 @@
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\bin\Debug\BLL.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\bin\Debug\BLL.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\bin\Debug\DAL.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\bin\Debug\DTO.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\bin\Debug\DTO.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\bin\Debug\DAL.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\bin\Debug\BLL.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\bin\Debug\BLL.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\bin\Debug\DAL.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\bin\Debug\DTO.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\bin\Debug\DTO.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\bin\Debug\DAL.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\BLL\obj\Debug\BLL.pdb

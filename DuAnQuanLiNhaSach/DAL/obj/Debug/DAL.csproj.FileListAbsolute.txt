@@ -1,0 +1,18 @@
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\DAL\bin\Debug\DAL.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\DAL\bin\Debug\DAL.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\DAL\bin\Debug\DTO.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\DAL\bin\Debug\DTO.pdb
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.dll
+D:\DH CNTT\Product\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\DAL\bin\Debug\DAL.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\DAL\bin\Debug\DAL.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\DAL\bin\Debug\DTO.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\DAL\bin\Debug\DTO.pdb
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.dll
+F:\School\Product\LTTQ\DuAnQuanLiNhaSach\DAL\obj\Debug\DAL.pdb
